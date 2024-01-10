@@ -1,1 +1,2 @@
-![Açıklama](C:\Users\yağmur\AppData\Local\Temp\f8464e72-05ee-448b-8b38-31838d93ad31_Blue Grey Modern Minimalist Boarding Pass Flight Ticket.zip.d31\1.jpg)
+
+![1](https://github.com/yagmurbarut/havayolu-bilgi-sistemi/assets/119848166/751407c6-b471-4ae6-ad63-39ff15179d59)
